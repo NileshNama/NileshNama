@@ -27,9 +27,19 @@ I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNam
 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182086765-609636d8-5075-4d8e-9708-cce87180085f.png" alt="html5 Certified" width="40" height="40" border="10"/> </a> <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182086819-98cd766a-0e19-4a47-84c6-eb32e3926624.png"  alt="CSS3 Certified" width="40" height="40" border="10"/> </a>
 
-<!-- use img link from assets's issues section only
-<a href="#" target="_blank"> <img src="------------------------------" alt="Bootstrap CSS Framework" width="40" height="40" border="10"/> </a> <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/js-file.png" alt="JS Certified" width="40" height="40" border="10"/> </a>  <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/react%20(1).png" alt="ReactJs" width="40" height="40" border="10"/> </a>        <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/redux.png" alt="Redux state management" width="40" height="40" border="10"/> </a> <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/angularjs.png" alt="Angular" width="40" height="40" border="10"/> </a>          <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/vuejs.png" alt="Vue.js" width="40" height="40" border="10"/> </a>               <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/nodejs.png" alt="Nodejs" width="40" height="40" border="10"/> </a>              <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/ExpressJS.png" alt="ExpressJs" width="40" height="40" border="10"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/api.png" alt="API" width="40" height="40" border="10"/> </a>                    <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/mongodb.png" alt="MongoDB" width="40" height="40" border="10"/> </a>            <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/sql-file.png" alt="SQL DB" width="40" height="40" border="10"/> </a>            <a href="#" target="_blank"> <img src="https://github.com/NileshNama/Assets/blob/main/java-file.png" alt="Java" width="40" height="40" border="10"/> </a>
+<!-- add img from issues tab of repo NileshNama's
+<a href="#" target="_blank"> <img src="---" alt="Bootstrap CSS Framework" width="40" height="40" border="10"/> </a> 
+<a href="#" target="_blank"> <img src="---" alt="JS Certified" width="40" height="40" border="10"/> </a> 
+<a href="#" target="_blank"> <img src="---" alt="ReactJs" width="40" height="40" border="10"/> </a>        
+<a href="#" target="_blank"> <img src="---" alt="Redux state management" width="40" height="40" border="10"/> </a> 
+<a href="#" target="_blank"> <img src="---" alt="Angular" width="40" height="40" border="10"/> </a>          
+<a href="#" target="_blank"> <img src="---" alt="Vue.js" width="40" height="40" border="10"/> </a>              
+<a href="#" target="_blank"> <img src="---" alt="Nodejs" width="40" height="40" border="10"/> </a>              
+<a href="#" target="_blank"> <img src="---" alt="ExpressJs" width="40" height="40" border="10"/> </a>
+<a href="#" target="_blank"> <img src="---" alt="API" width="40" height="40" border="10"/> </a>                    
+<a href="#" target="_blank"> <img src="---" alt="MongoDB" width="40" height="40" border="10"/> </a>            
+<a href="#" target="_blank"> <img src="---" alt="SQL DB" width="40" height="40" border="10"/> </a>            
+<a href="#" target="_blank"> <img src="" alt="Java" width="40" height="40" border="10"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182087232-338975d6-4a28-4a9f-82e5-111b869a1b52.png" alt="Linux" width="40" height="40" border="10"/> </a>
 -->
 
@@ -81,7 +91,7 @@ alt="jubin yt video" width="240"  border="10" /></a>
 
 <a href="https://hashnode.com/@NileshNama" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090131-0eb5011a-7611-45c7-8e3a-42416d7a3100.png" alt="HashNode" width="30" height="30" border="10"/> <a href="https://www.twitter.com/NileshNama1" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090162-2185eaae-fa13-46e7-9234-35e9aaae4a90.png" alt="Twitter" width="30" height="30" border="10"/>
 <a href="https://instagram.com/tsoneil" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090113-295874ae-3dee-445c-831a-a42314543047.png" alt="Instagram" width="30" height="30" border="10"/>
-<a href="https://www.facebook.com/nilesh.nama.1997" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090072-f1ec00dd-05fa-46e5-92f9-6b91bda8cedf.png" alt="FaceBook" width="30" height="30" border="10"/> <a href="https://www.linkedin.com/in/nileshnama/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182090042-66a4d07a-19b3-4a0e-bb55-90433202f364.png" alt="LinkedIN" width="30" height="30" border="10"/> <a href="https://www.findcoder.io/u/nileshnama" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090364-301227da-69f6-45bd-b553-9bf2f1ddb345.png" alt="findcoder" width="230" border="10" />
+<a href="https://www.facebook.com/nilesh.nama.1997" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090072-f1ec00dd-05fa-46e5-92f9-6b91bda8cedf.png" alt="FaceBook" width="30" height="30" border="10"/> <a href="https://www.linkedin.com/in/nileshnama/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182090042-66a4d07a-19b3-4a0e-bb55-90433202f364.png" alt="LinkedIN" width="30" height="30" border="10"/> <a href="https://www.findcoder.io/u/nileshnama" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/182090364-301227da-69f6-45bd-b553-9bf2f1ddb345.png" alt="findcoder" width="230" border="10" />
 
  <!-- moving text -->
 
