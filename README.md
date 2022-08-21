@@ -10,7 +10,7 @@
 <!-- About me Section -->
 
 <a href="https://blogs.nileshnama.com" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
-[`NileshNama.com`](https://nileshnama.com) / [`Curriculum vitae`](https://github.com/NileshNama) / [`Profile Video`](https://github.com/NileshNama)
+[`NileshNama.com`](https://nileshnama.com) / [`Curriculum vitae`](https://docs.google.com/document/d/1t8WXf2_rYn4hJsUcI8UrWsnihblh_O25mf716VVJZ9U/edit?usp=sharing) / [`Profile Video`](https://github.com/NileshNama)
 
 I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**.
 
