@@ -10,7 +10,7 @@
 <!-- About me Section -->
 
 <a href="https://blogs.nileshnama.com" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
-[`NileshNama.com`](https://nileshnama.com)  [`CodeLab-ProjectLibrary`](https://codelab.nileshnama.com)  | [`digitalResume`](https://nileshnama.me/)  <!-- [`Profile Video`](https://github.com/NileshNama) -->
+[`NileshNama.com`](https://nilesh-nama-profile.netlify.app/)  [`digitalResume`](https://nileshnama.me/)  <!-- [`Profile Video`](https://github.com/NileshNama) -->
 
 I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**.
 
@@ -25,11 +25,10 @@ I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNam
 
 <!--  <a href="#" target="_blank"> <img src="----" alt="------" width="40" height="40" border="10"/> </a>  -->
 
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182086765-609636d8-5075-4d8e-9708-cce87180085f.png" alt="html5 Certified" width="40" height="40" border="10"/> </a> <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182086819-98cd766a-0e19-4a47-84c6-eb32e3926624.png"  alt="CSS3 Certified" width="40" height="40" border="10"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182086765-609636d8-5075-4d8e-9708-cce87180085f.png" alt="html5 Certified" width="40" height="40" border="10"/> </a> <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182086819-98cd766a-0e19-4a47-84c6-eb32e3926624.png"  alt="CSS3 Certified" width="40" height="40" border="10"/> </a> <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182097217-0e648298-f2b9-405d-8eff-084e7e8d7220.png" alt="Bootstrap CSS Framework" width="40" height="40" border="10"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/188314098-32c104eb-4db4-43e2-95d9-432a8fc438a0.png" alt="Tailwind CSS" width="40" height="40" border="10"/> </a> <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182086845-dec3d7a7-e16f-4a14-81de-c9d82dac3a2b.png" alt="JS Certified" width="40" height="40" border="10"/> </a> 
 
 <!-- add img from issues tab of repo NileshNama's
-<a href="#" target="_blank"> <img src="---" alt="Bootstrap CSS Framework" width="40" height="40" border="10"/> </a> 
-<a href="#" target="_blank"> <img src="---" alt="JS Certified" width="40" height="40" border="10"/> </a> 
 <a href="#" target="_blank"> <img src="---" alt="ReactJs" width="40" height="40" border="10"/> </a>        
 <a href="#" target="_blank"> <img src="---" alt="Redux state management" width="40" height="40" border="10"/> </a> 
 <a href="#" target="_blank"> <img src="---" alt="Angular" width="40" height="40" border="10"/> </a>          
@@ -55,12 +54,12 @@ I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNam
 
 **Alive-in-Production**, _just tap there!_
 
-<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088797-5be3de0f-0f11-4ac2-a4a4-fff19cb21aa2.png" alt="-----------" width="420" border="10" /></a>
-<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088797-5be3de0f-0f11-4ac2-a4a4-fff19cb21aa2.png" alt="-----------" width="420" border="10" /></a>
-<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088797-5be3de0f-0f11-4ac2-a4a4-fff19cb21aa2.png" alt="-----------" width="420" border="10" /></a>
-<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088797-5be3de0f-0f11-4ac2-a4a4-fff19cb21aa2.png" alt="-----------" width="420" border="10" /></a>
-<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088797-5be3de0f-0f11-4ac2-a4a4-fff19cb21aa2.png" alt="-----------" width="420" border="10" /></a>
-<a href="https://codelab.nileshnama.com" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a>
+<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/188314771-6a555f37-391d-4d4c-8625-8b99ca8bb633.png" alt="-----------" width="420" border="10" /></a>
+<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/188314745-e8819767-2b90-496e-b21b-47f233a6c460.png" alt="-----------" width="420" border="10" /></a>
+<a href="https://paytm-homepage-clone-by-nilesh.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185568107-e1d6d239-c86c-47ee-b723-92cb65b5e9c9.png" alt="-----------" width="420" border="10" /></a>
+<a href="https://project-01-by-nileshnama.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185107274-e9db684f-2b3b-4d29-9718-4c7f502ae46e.png" alt="-----------" width="420" border="10" /></a>
+<a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a>
+<a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a>
 
 <!-- How to add youtube videos
 
