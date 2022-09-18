@@ -61,7 +61,8 @@ I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNam
 <a href="https://project-01-by-nileshnama.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185107274-e9db684f-2b3b-4d29-9718-4c7f502ae46e.png" alt="-----------" width="420" border="10" /></a>
 <a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a><a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a>
 
-<a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a>
+<a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a> <a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a>
+
 
 <!-- How to add youtube videos
 
