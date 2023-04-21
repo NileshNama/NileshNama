@@ -9,14 +9,14 @@
 
 <!-- About me Section -->
 
-<a href="https://blogs.nileshnama.com" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
+<a href="https://vebglitch.github.io/" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
 *visit :*  [`CV`](https://nileshnama.me/)  [`NileshNama.com`](https://nilesh-nama-profile.netlify.app/) | [`VebGlitch`](https://github.com/NileshNama/NileshNama)
 <!-- [`Profile Video`](https://github.com/NileshNama) -->
 
 I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**.
 
 > I read books alot ! yeah you heard me right, may be you can call me a **BookWorm**.
-> & i write [`tech. articles`](https://blogs.nileshnama.com) sometimes as well.
+> & i write [`tech. articles`](https://vebglitch.github.io/) sometimes as well.
 
 <!-- My tech & Tools Section: Things I code with -by Nilesh Nama -->
 
