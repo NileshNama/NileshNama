@@ -10,7 +10,7 @@
 <!-- About me Section -->
 
 <a href="https://blog.nileshnama.me" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
-*visit :*  [`CV`](https://nileshnama.me/)  | `VebGlitch`
+*visit :*  [`NileshNama.me`](https://nileshnama.me/) [`NileshNama.notion.site`](https://nileshnama.notion.site)
 <!-- [`Profile Video`](https://github.com/NileshNama) -->
 
 I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**.
@@ -93,7 +93,7 @@ alt="jubin yt video" width="240"  border="10" /></a>
 
 <a href="https://hashnode.com/@NileshNama" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090131-0eb5011a-7611-45c7-8e3a-42416d7a3100.png" alt="HashNode" width="30" height="30" border="10"/> <a href="https://www.twitter.com/NileshNama" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090162-2185eaae-fa13-46e7-9234-35e9aaae4a90.png" alt="Twitter" width="30" height="30" border="10"/>
 <a href="https://instagram.com/tsoneil" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090113-295874ae-3dee-445c-831a-a42314543047.png" alt="Instagram" width="30" height="30" border="10"/>
-<a href="https://www.facebook.com/nilesh.nama.1997" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090072-f1ec00dd-05fa-46e5-92f9-6b91bda8cedf.png" alt="FaceBook" width="30" height="30" border="10"/> <a href="https://www.linkedin.com/in/nileshnama/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182090042-66a4d07a-19b3-4a0e-bb55-90433202f364.png" alt="LinkedIN" width="30" height="30" border="10"/> <a href="https://www.findcoder.io/u/nileshnama" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/182090364-301227da-69f6-45bd-b553-9bf2f1ddb345.png" alt="findcoder" width="230" border="10" />
+<a href="https://www.facebook.com/nilesh.nama.1997" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090072-f1ec00dd-05fa-46e5-92f9-6b91bda8cedf.png" alt="FaceBook" width="30" height="30" border="10"/> <a href="https://www.linkedin.com/in/nileshnama/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182090042-66a4d07a-19b3-4a0e-bb55-90433202f364.png" alt="LinkedIN" width="30" height="30" border="10"/>
 
  <!-- moving text -->
 
