@@ -1,6 +1,6 @@
 <!-- Document by NileshNama and MIT Licensed -->
 
-# Hello! I'm Nilesh <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182085197-a8422498-4ddd-405e-84ac-772e9b7be817.gif" alt="Wave handGif" width="50" border="10" /> </a>
+# Hello! I'm [Nilesh Nama](https://nileshnama.notion.site) <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182085197-a8422498-4ddd-405e-84ac-772e9b7be817.gif" alt="Wave handGif" width="50" border="10" /> </a>
 
 <!-- Head Banner Section
 
@@ -51,7 +51,7 @@ I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNam
 
 <!-- CodeLab : Examples of work image/gif/ linked with actual demo site: we need to add image/gif & Link to the actual demo website or youtube video itself-->
 
-## CodeLab
+## Projects [`Readme.md`](https://projects-nileshnama.notion.site)
 
 **Alive-in-Production**, _just tap there!_
 
