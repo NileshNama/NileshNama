@@ -9,14 +9,14 @@
 
 <!-- About me Section -->
 
-<a href="https://blog.nileshnama.me" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
-*visit :*  [`NileshNama.me`](https://nileshnama.me/) [`NileshNama.notion.site`](https://nileshnama.notion.site)
+<a href="https://notebook-nileshnama.notion.site/7e9aa1134abc4f2eb30c6d1c0200822d?v=5460b43c7a77449cafbb914213aadbfc" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
+*visit :*  [`Linkedin`](https://www.linkedin.com/in/nileshnama/) [`NileshNama.notion.site`](https://nileshnama.notion.site)
 <!-- [`Profile Video`](https://github.com/NileshNama) -->
 
-I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**.
+I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**. Detail-oriented and passionate Front-End Developer and React.js Expert with 4+ years of experience in building responsive, user-centric web applications using React.js, TypeScript, and modern UI frameworks. Skilled in software development principles, creating scalable SPAs (Single Page Applications), integrating REST APIs, optimizing performance, and mentoring teams. Proven success in Agile environments with a strong focus on UX, maintainability, and modular architecture.
 
 > I read books alot ! yeah you heard me right, may be you can call me a **BookWorm**.
-> & i write [`tech. articles`](https://blog.nileshnama.me) sometimes as well.
+> & i write [`tech. articles`](https://notebook-nileshnama.notion.site/7e9aa1134abc4f2eb30c6d1c0200822d?v=5460b43c7a77449cafbb914213aadbfc) sometimes as well.
 
 <!-- My tech & Tools Section: Things I code with -by Nilesh Nama -->
 
@@ -55,13 +55,13 @@ I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNam
 
 **Alive-in-Production**, _just tap there!_
 
-<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/188314771-6a555f37-391d-4d4c-8625-8b99ca8bb633.png" alt="-----------" width="420" border="10" /></a>
-<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/188314745-e8819767-2b90-496e-b21b-47f233a6c460.png" alt="-----------" width="420" border="10" /></a>
+<!-- <a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/188314771-6a555f37-391d-4d4c-8625-8b99ca8bb633.png" alt="-----------" width="420" border="10" /></a>
+<a href="------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/188314745-e8819767-2b90-496e-b21b-47f233a6c460.png" alt="-----------" width="420" border="10" /></a> -->
 <a href="https://paytm-homepage-clone-by-nilesh.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185568107-e1d6d239-c86c-47ee-b723-92cb65b5e9c9.png" alt="-----------" width="420" border="10" /></a>
-<a href="https://project-01-by-nileshnama.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185107274-e9db684f-2b3b-4d29-9718-4c7f502ae46e.png" alt="-----------" width="420" border="10" /></a>
-<a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a><a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a>
+<!--  <a href="https://project-01-by-nileshnama.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185107274-e9db684f-2b3b-4d29-9718-4c7f502ae46e.png" alt="-----------" width="420" border="10" /></a>
+<a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a><a href="https://project-14-creativity-webpage.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185317807-629472da-aa99-49e9-b4fc-a6a67a11a741.png" alt="-----------" width="420" border="10" /></a> -->
 
-<a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a> <a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a>
+<!-- <a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a> <a href="https://nilesh-nama-profile.netlify.app/#CodeLab" target="_blank"> <img align="top" src="https://user-images.githubusercontent.com/83578068/182084976-4236548f-48e5-4e3b-a7f9-1866c015f8b7.gif" alt="CodeLab" width="280" border="10" /></a> -->
 
 
 <!-- How to add youtube videos
@@ -89,7 +89,7 @@ alt="jubin yt video" width="240"  border="10" /></a>
 
  <!-- Connect with me section by NileshNama  -->
 
-<a href="#" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/182090326-c45aaf2e-9e8e-4037-a25d-812fdb6cf3f4.png" alt="Nilesh gmail" width="230" border="10"/> </a>
+<!-- <a href="#" target="_blank"> <img align="right" src="https://user-images.githubusercontent.com/83578068/182090326-c45aaf2e-9e8e-4037-a25d-812fdb6cf3f4.png" alt="Nilesh gmail" width="230" border="10"/> </a> -->
 
 <a href="https://hashnode.com/@NileshNama" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090131-0eb5011a-7611-45c7-8e3a-42416d7a3100.png" alt="HashNode" width="30" height="30" border="10"/> <a href="https://www.twitter.com/NileshNama" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090162-2185eaae-fa13-46e7-9234-35e9aaae4a90.png" alt="Twitter" width="30" height="30" border="10"/>
 <a href="https://instagram.com/tsoneil" target="_blank"> <img  src="https://user-images.githubusercontent.com/83578068/182090113-295874ae-3dee-445c-831a-a42314543047.png" alt="Instagram" width="30" height="30" border="10"/>
