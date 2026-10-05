@@ -13,8 +13,10 @@
 *visit :*  [`Linkedin`](https://www.linkedin.com/in/nileshnama/) [`dev.nileshnama.com`](https://dev.nileshnama.com/)
 <!-- [`Profile Video`](https://github.com/NileshNama) -->
 
-I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**. 
-Senior Software Engineer and Team Lead with 6+ years of progressive experience building and delivering production-ready software products across the full development lifecycle. Experienced in backend and full-stack engineering, system architecture, API design, database design, performance optimization, and technical execution. Progressed from Software Engineer to Lead Software Engineer, Senior Software Engineer, and Team Lead at VEBGlitch, taking increasing ownership of engineering decisions, product delivery, team execution, and technical direction. Strong background in React, Node.js, Express.js, MongoDB, TypeScript, REST APIs, and modern web architecture, with a focus on scalable, maintainable, and user-centric systems.
+I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**. </br>
+Senior Software Engineer and Team Lead with 6+ years of progressive experience building and delivering production-ready software products across the full development lifecycle. Experienced in backend and full-stack engineering, system architecture, API design, database design, performance optimization, and technical execution. </br>
+Progressed from Software Engineer to Lead Software Engineer, Senior Software Engineer, and Team Lead at VEBGlitch, taking increasing ownership of engineering decisions, product delivery, team execution, and technical direction. </br>
+Strong background in React, Node.js, Express.js, MongoDB, TypeScript, REST APIs, and modern web architecture, with a focus on scalable, maintainable, and user-centric systems.
 
 > I read books alot ! yeah you heard me right, may be you can call me a **BookWorm**.
 > & i write [`tech. articles`](https://cohorts.nileshnama.com/app-blog) sometimes as well.
