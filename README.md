@@ -1,6 +1,6 @@
 <!-- Document by NileshNama and MIT Licensed -->
 
-# Hello! I'm [Nilesh Nama](https://nileshnama.notion.site) <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182085197-a8422498-4ddd-405e-84ac-772e9b7be817.gif" alt="Wave handGif" width="50" border="10" /> </a>
+# Hello! I'm [Nilesh Nama](https://dev.nileshnama.com/) <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182085197-a8422498-4ddd-405e-84ac-772e9b7be817.gif" alt="Wave handGif" width="50" border="10" /> </a>
 
 <!-- Head Banner Section
 
@@ -9,14 +9,14 @@
 
 <!-- About me Section -->
 
-<a href="https://notebook-nileshnama.notion.site/7e9aa1134abc4f2eb30c6d1c0200822d?v=5460b43c7a77449cafbb914213aadbfc" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
-*visit :*  [`Linkedin`](https://www.linkedin.com/in/nileshnama/) [`NileshNama.notion.site`](https://nileshnama.notion.site)
+<a href="https://cohorts.nileshnama.com/app-blog" target="_blank" > <img align="right"  src="https://user-images.githubusercontent.com/83578068/182085853-cd6e14c7-1a18-40bd-994c-c8d2eef5442a.png"   alt="Nilesh's Articles on hashnode" width="280" border="10"/> </a>
+*visit :*  [`Linkedin`](https://www.linkedin.com/in/nileshnama/) [`dev.nileshnama.com`](https://dev.nileshnama.com/)
 <!-- [`Profile Video`](https://github.com/NileshNama) -->
 
-I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**. Detail-oriented and passionate Front-End Developer and React.js Expert with 4+ years of experience in building responsive, user-centric web applications using React.js, TypeScript, and modern UI frameworks. Skilled in software development principles, creating scalable SPAs (Single Page Applications), integrating REST APIs, optimizing performance, and mentoring teams. Proven success in Agile environments with a strong focus on UX, maintainability, and modular architecture.
+I'm a **Software Developer Engineer** from <a href="https://github.com/NileshNama" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/182088592-0a1bc499-93a8-4045-8d9b-bcdf3947e3ec.png" alt="India Flag" width="20" border="10" /> </a> **India**. Senior Software Engineer and Team Lead with 6+ years of progressive experience building and delivering production-ready software products across the full development lifecycle. Experienced in backend and full-stack engineering, system architecture, API design, database design, performance optimization, and technical execution. Progressed from Software Engineer to Lead Software Engineer, Senior Software Engineer, and Team Lead at VEBGlitch, taking increasing ownership of engineering decisions, product delivery, team execution, and technical direction. Strong background in React, Node.js, Express.js, MongoDB, TypeScript, REST APIs, and modern web architecture, with a focus on scalable, maintainable, and user-centric systems.
 
 > I read books alot ! yeah you heard me right, may be you can call me a **BookWorm**.
-> & i write [`tech. articles`](https://notebook-nileshnama.notion.site/7e9aa1134abc4f2eb30c6d1c0200822d?v=5460b43c7a77449cafbb914213aadbfc) sometimes as well.
+> & i write [`tech. articles`](https://cohorts.nileshnama.com/app-blog) sometimes as well.
 
 <!-- My tech & Tools Section: Things I code with -by Nilesh Nama -->
 
